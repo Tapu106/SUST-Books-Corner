@@ -1,0 +1,15 @@
+.navbar-default {
+  background-color:#42ecf5;
+  background-image: none;
+  background-repeat: no-repeat;
+ }
+ 
+ .navbar-text {
+  font-weight: bold;
+  display: inline-block;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem; }
+
+
+
+ 
